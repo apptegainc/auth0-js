@@ -126,7 +126,7 @@
   "lint-staged": {
     "*.js": "npm run lint"
   },
-  "main": "dist/auth0.min.js",
+  "main": "dist/auth0.js",
   "module": "dist/auth0.min.esm.js",
   "name": "auth0-js",
   "repository": {
